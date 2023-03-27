@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
+![Screenshot_1679850604](https://user-images.githubusercontent.com/80174703/227916423-73a61275-7536-47b2-83f2-a1304480b5de.png)
 
 This project is a starting point for a Flutter application.
 
