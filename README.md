@@ -8,9 +8,9 @@ A new Flutter project.![github](https://user-images.githubusercontent.com/801747
 #Screenshots
 
 ![screenshot2](https://user-images.githubusercontent.com/80174703/227923285-21b5e06a-4aeb-4950-8977-96f47436d18a.jpg)
+![screenshot1](https://user-images.githubusercontent.com/80174703/227923238-824b3e0f-951b-44b5-9bed-3baf42cafa05.jpg)
 
-This project is a starting p![screenshot1](https://user-images.githubusercontent.com/80174703/227923238-824b3e0f-951b-44b5-9bed-3baf42cafa05.jpg)
-oint for a Flutter application.
+This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
